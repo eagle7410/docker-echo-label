@@ -1,0 +1,18 @@
+{
+  "name": "docker-echo-label",
+  "version": "1.0.0",
+  "description": "docker echo label",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "up" : "node entry.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eagle7410/docker-echo-label.git"
+  },
+  "author": "Igor Stcherbina <verycooleagle@gmail.com> (http://github.com/eagle7410)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
